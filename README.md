@@ -1,4 +1,4 @@
-# ESP32 
+# Server ESP32 
 - C
 - FreeRTOS
 - [BME680 driver library](https://github.com/UncleRus/esp-idf-lib/tree/master/components/bme680)
